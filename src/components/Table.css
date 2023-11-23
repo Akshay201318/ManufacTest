@@ -1,0 +1,14 @@
+.table-wrapper table {
+    border-collapse: collapse;
+  }
+
+.table-wrapper table, td, th {
+    border: 1px solid;
+    text-align: left;
+    word-wrap: break-word;
+    padding: 12px;
+  }
+
+.measure-heading {
+    font-weight: 500;
+}
